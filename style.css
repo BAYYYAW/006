@@ -107,7 +107,7 @@ body{
 .logo {
   background-image: url('https://dailyspin.id/wp-content/uploads/2020/09/Logo-ML.png');
   padding: 48px;
-  -webkit-background-size: containr;
+  -webkit-background-size: contain;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -142,7 +142,7 @@ body{
 }
 
 .coriental h1{
-  background-image: url('logo.png');
+  background-image: url('image/logo.png');
   -webkit-background-size: cover;
   background-size: cover;
   background-position: top;
