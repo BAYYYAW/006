@@ -142,7 +142,7 @@ body{
 }
 
 .coriental h1{
-  background-image: url('/image/Logo.png');
+  background-image: url('image/Logo.png');
   -webkit-background-size: cover;
   background-size: cover;
   background-position: top;
